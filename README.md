@@ -11,3 +11,7 @@
 2、”一键Payload”，发送Payload版本，www.mtao.cn/pay
 
 另，进入2，出现"Waiting for payload"时，需使用PS4 PayLoad Sender 1.76 4.05连接PS4再发送，网页不能关。
+
+文件参考：https://www.psxhax.com/threads/ps4-hen-4-05-exploit-payload-webpage-no-pc-needed-ps4hen-is-lit.3549/#comments
+
+文件参考：https://github.com/Al-Azif/ps4-exploit-host
